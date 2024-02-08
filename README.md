@@ -3,7 +3,7 @@
 
 ---
 
-- 💬 Stack: **SQL, Python, Pandas, Seaborn, Matplotlib**
+- 💬 Stack: **SQL, Python, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn**
 
 - 📫 You can reach me on **lucas.stein@outlook.com**
 
