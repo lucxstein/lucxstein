@@ -1,5 +1,5 @@
 ###<h1 align="center">Hey there👋 I'm Lucas Stein</h1>
-<h3 align="center">Data Science and Machine Learning enthusiast</h3>
+<h3 align="center">Data Science and Machine Learning</h3>
 
 ---
 
